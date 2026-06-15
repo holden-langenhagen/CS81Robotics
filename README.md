@@ -1,3 +1,5 @@
+This environment was provided by Alberto Quattrini Li as part of the CS81 course at Dartmouth College. See ros2_ws/src for the programming assignment (PA) files where I have completed the programming assignments
+
 # ROS 2 Development Environment (Mac & Windows)
 
 This repository provides a containerized **ROS 2 Humble** environment with a virtual desktop (NoVNC) accessible via your web browser. This setup allows you to run GUI-based robotics tools like Gazebo and Rviz without needing a native Linux installation.
